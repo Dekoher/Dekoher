@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **Dekoher/Dekoher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## I am a Frontend developer, passionate about web technologies :computer:, electronic music 🎶 🎵 and the Internet Of Things(IoT) ☁️.
-# In the last two years I've been learning about the amazing world of software development and specifically in the web development specializing in the Frontend, but also I've had to learn a little bit of Backend to complement the apps that I've built, all of the above I've done working with  HTML, CSS, ReactJs, Angular and Gatsby for the frontend and NodeJs for the backend.
 
-# In my free times i like to learn about new technologies, mix some music, and do maker IoT projects.
+### In the last two years I've been learning about the amazing world of software development and specifically in the web development specializing in the Frontend, but also I've had to learn a little bit of Backend to complement the apps that I've built, all of the above I've done working with  HTML, CSS, ReactJs, Angular and Gatsby for the frontend and NodeJs and ExpressJs for the backend.
 
-# You can speak to me in Spanish of course (I'm from Mexico 😄) and in English.
+### In my free times i like to be learning new technologies on my own, mix some music, and do maker IoT projects.
 
-# Check my [website](https://diegoher.dev).
+### You can speak to me in Spanish of course (I'm from Mexico 😄) and in English.
+
+### Check my [website](https://diegoher.dev).
