@@ -1,5 +1,7 @@
 # Hi there 👋
 
+![alt text](https://drive.google.com/file/d/14j8cnNYMa7UtqAD7UIr9GFuNuMXkM5yA/view?usp=sharing)
+
 <!--
 **Dekoher/Dekoher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
