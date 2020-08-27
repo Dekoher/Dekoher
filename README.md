@@ -22,7 +22,7 @@ function diegoHerrera() {
 }
 ```
 
-##### In my free times i like to be learning new technologies on my own, mix some music, and do maker IoT projects, with raspberry pi, arduino, ESP8266, etc.
+##### In my free times i like to learn about new technologies on my own, mix some music, and do maker IoT projects, with raspberry pi, arduino, ESP8266, etc.
 
 ##### You can speak to me in Spanish of course because I'm Mexican 😃🇲🇽 and also in English.
 
