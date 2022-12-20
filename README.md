@@ -11,13 +11,13 @@
 ```javascript
 function diegoHerrera() {
   return mySkills = {
-    languages: ['JavaScript', 'Python'],
+    languages: ['JavaScript', 'Typescript'],
     frontend: {
-      core: ['HTML', 'CSS', 'Responsive design', 'Bootstrap', 'Sass', 'Less', 'Materialize', 'MaterialUI'],
-      librariesAndFrameworks: ['Angular', 'ReactJs', 'Gatsby'],
-      unitTest: ['Jest', 'Jasmine']
-    },
-    backend: ['Node.js', 'Express.js']
+      core: ['HTML', 'CSS', 'Responsive design', 'Bootstrap', 'Sass', 'Angular Material'],
+      librariesAndFrameworks: ['Angular', 'ReactJs', 'Gatsby', 'Astro', 'Stencil.js'],
+      unitTest: ['Jest', 'Jasmine'],
+      otherSkills: ['husky', 'commitlint', 'agm-maps', 'storybook', 'gitflow', 'scrum', 'kanban']
+    }
   }
 }
 ```
